@@ -1,0 +1,8 @@
+Aqui colocarei minhas anotações durante o curso/desafio.
+
+Ordem de procedimento no terminal do git:
+git init
+git add * ou <nomedoarquivo>
+git commit -m "comentário"
+git remote add origin <linkhttps>
+git push -u origin main
